@@ -7,7 +7,7 @@ Fullstack Developer
 I really love coding! 🔥
 
 * 🌍  I'm based in Austria
-* 🖥️  See my portfolio at [My Website]([http://zlabit.at/])
+* 🖥️  See my portfolio at [My Website](http://zlabit.at/)
 * ✉️  You can contact me at [zlabi.dev@gmail.com](mailto:zlabi.dev@gmail.com)
 * 🚀  I'm currently working on [SWAG: Reverse Proxy Configs](http://github.com/linuxserver/reverse-proxy-confs)
 * 🧠  I'm learning Java, Spring (Boot), Angular, JavaScript, TypeScript, Kubernetes/Openshift
